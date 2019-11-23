@@ -7,7 +7,7 @@
 
 using namespace std;
 
-const int N = 3e3+5;
+const int N = 2e5+5;
 
 int n, m, q, s, e;
 bool chk[N];
