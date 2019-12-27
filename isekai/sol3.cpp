@@ -17,7 +17,6 @@ void add(int u){
 	if(u < N && stat[u + 1]) mrg(u, u + 1);
 }
 int main(){ 
-	freopen("sub3/16", "r", stdin);
 	ios::sync_with_stdio(0), cin.tie(0);
 	cin >> N >> M >> P >> Q;
 	for(int i = 0; i < N; ++i) cin >> le[i];
