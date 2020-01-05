@@ -1,0 +1,12 @@
+cp ../abgift/problem.pdf abgift.pdf
+cp ../autocomplete/problem.pdf autocomplete.pdf
+cp ../ezproblem/problem.pdf ezproblem.pdf
+cp ../final-crisis/problem.pdf final-crisis.pdf
+cp ../forest-resorts/problem.pdf forest-resorts.pdf
+cp ../interdimensional-thief/problem.pdf interdimensional-thief.pdf
+cp ../isekai/problem.pdf isekai.pdf
+cp ../mathmath/problem.pdf mathmath.pdf
+cp ../precious-treasure/problem.pdf precious-treasure.pdf
+cp ../sneaky-getaway/problem.pdf sneaky-getaway.pdf
+cp ../tulympic/problem.pdf tulympic.pdf
+cp ../zombieland/problem.pdf zombieland.pdf
