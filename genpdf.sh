@@ -1,36 +1,36 @@
-cd ./abgift
+cd ./A-tulympic
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
-cd ./autocomplete
+cd ./B-interdimensional-thief
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
-cd ./ezproblem
+cd ./C-zombieland
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
-cd ./final-crisis
+cd ./D-ezproblem
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
-cd ./forest-resorts
+cd ./E-sneaky-getaway
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
-cd ./interdimensional-thief
+cd ./F-abgift
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
-cd ./isekai
+cd ./G-final-crisis
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
-cd ./mathmath
+cd ./H-forest-resorts
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
-cd ./precious-treasure
+cd ./I-mathmath
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
-cd ./sneaky-getaway
+cd ./J-isekai
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
-cd ./tulympic
+cd ./K-precious-treasure
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
-cd ./zombieland
+cd ./L-autocomplete
 /Library/TeX/texbin/xelatex -interaction nonstopmode -halt-on-error -file-line-error problem.tex
 cd ..
