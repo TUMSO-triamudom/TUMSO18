@@ -32,7 +32,7 @@ int main() {
         for(int v : g[u]) if(!chk[v]) {
             --deg[v];
             if(deg[v] == 1) Q.emplace(k + 1, v);
-            else ans[Q.size()] = ans[Q.size()] + k;
+            else ans[Q.size()] = ans[Q.size()+1] + k;
         }
     }
 
@@ -40,7 +40,8 @@ int main() {
     while(q--) {
         int x;
         scanf("%d", &x);
-        printf("%d\n", n - 1 - ans[x]);
+        if(x == 1) printf("0\n");
+        else printf("%d\n", n - 1 - ans[x]);
     }
 
     return 0;
